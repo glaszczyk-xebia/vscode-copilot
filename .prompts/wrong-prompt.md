@@ -1,0 +1,1 @@
+Zrefaktoryzuj kod tej aplikacji.
